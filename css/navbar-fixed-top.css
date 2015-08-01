@@ -1,0 +1,10 @@
+﻿body{
+  min-height: 1500px;
+  padding-top: 160Px;
+}
+
+.bottom-fixed{
+    position:fixed ;
+    bottom:5px;
+    text-align:center;
+}
